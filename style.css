@@ -1,0 +1,87 @@
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+
+div.carousel-caption {
+  background-color: rgba(0,0,0,.4);
+}
+
+.sectionLight {
+
+  background-color: #eceeef;
+  padding: 2em;
+}
+
+.main {
+  background-image: url("assets/pexels-ian-beckley-2440061.jpg");
+}
+
+.sectionDark {
+  background-color: #cccccc;
+  padding: 2rem;
+  font-size: large;
+}
+
+.navSize{
+  width: auto;
+}
+.wrapper {
+  margin-top: 20px;
+}
+
+button.wrapperBtn {
+background-color: orangered;
+margin: auto;
+display: block;
+}
+
+h5.modal-title {
+  margin: auto;
+}
+
+
+.modalFormWrapper {
+  padding: 2rem;
+  font-size: large;
+}
+
+.imgCenter {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.btnCenter {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
+  width: 40%;
+}
+
+.footerImg {
+  padding: 1rem;
+}
+
+.fa {
+  margin: 1rem;
+}
+
+.fa-facebook-square{
+  color: #3b5998;
+}
+.fa-twitter-square {
+  color: #1DA1F2;
+}
+.fa-instagram {
+ color: #833AB4;
+}
+.socialWrapper {
+  margin: 0px;
+  margin-top: 50px;
+}
+.footerText {
+  font-size: large;
+  color: orange
+}
